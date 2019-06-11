@@ -16,10 +16,6 @@ class RubyRacer
   def initialize(players, length = 30)
   end
 
-  # Returns a random number between the min and max, inclusive
-  def die_roll(min = 1, max = 6)
-  end
-
   # Returns true if a player has reached the finish line and false otherwise.
   def finished?
   end
